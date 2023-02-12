@@ -9,5 +9,5 @@ Some of the answers to questions were not included in this project (it remained 
 Despite the fact that a huge part of the material was taken from open sources (for example, Wikipedia), in some places I reasoned independently, so I recommend that you not be sure of the absolute truthfulness of what was written.
 
 ## Thanks
-@airh4ck for preamble;\
-@i-pankrat for one written answer to the question.
+* [@airh4ck](https://github.com/airh4ck) for preamble
+* [@i-pankrat](https://github.com/i-pankrat) for one written answer to the question
